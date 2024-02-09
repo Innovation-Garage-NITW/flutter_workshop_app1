@@ -7,11 +7,14 @@ class CustomImage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Image.asset(
-      imagePath,
-      width: 150,
-      height: 200,
-      fit: BoxFit.cover,
+    return ClipRRect(
+      borderRadius: BorderRadius.circular(20),
+      child: Image.asset(
+        imagePath,
+        width: 150,
+        height: 200,
+        fit: BoxFit.cover,
+      ),
     );
   }
 }
