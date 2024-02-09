@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:inspiration_ui/widgets/custom_image.dart';
 
 void main() {
   runApp(
@@ -64,6 +65,18 @@ void main() {
                 'Promo Today',
                 style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
               ),
+              const SizedBox(
+                height: 15,
+              ),
+              const SizedBox(
+                height: 200,
+                child: Row(
+                  children: [
+                    CustomImage(imagePath: 'assets/images/one.jpg'),
+                    CustomImage(imagePath: 'assets/images/two.jpg'),
+                  ],
+                ),
+              )
             ],
           ),
         ),
