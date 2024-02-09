@@ -79,6 +79,20 @@ void main() {
                     ],
                   ),
                 ),
+                const SizedBox(
+                  height: 20,
+                ),
+                Center(
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(15),
+                    child: Image.asset(
+                      'assets/images/three.jpg',
+                      width: 350,
+                      height: 150,
+                      fit: BoxFit.cover,
+                    ),
+                  ),
+                ),
               ],
             ),
           ),
