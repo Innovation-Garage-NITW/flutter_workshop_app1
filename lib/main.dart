@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:inspiration_ui/widgets/custom_image.dart';
+import 'package:inspiration_ui/widgets/input_field.dart';
 
 void main() {
   runApp(
@@ -39,26 +40,7 @@ void main() {
                 const SizedBox(
                   height: 20,
                 ),
-                Container(
-                  padding: const EdgeInsets.all(5),
-                  decoration: BoxDecoration(
-                      color: const Color.fromRGBO(244, 243, 243, 1),
-                      borderRadius: BorderRadius.circular(15)),
-                  child: const TextField(
-                    decoration: InputDecoration(
-                      prefixIcon: Icon(
-                        Icons.search,
-                        color: Colors.black87,
-                      ),
-                      border: InputBorder.none,
-                      hintText: "Search you're looking for",
-                      hintStyle: TextStyle(
-                        color: Colors.grey,
-                        fontSize: 15,
-                      ),
-                    ),
-                  ),
-                ),
+                const InputField(),
                 const SizedBox(
                   height: 50,
                 ),

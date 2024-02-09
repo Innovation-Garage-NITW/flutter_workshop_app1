@@ -1,0 +1,17 @@
+[33m25e5938[m[33m ([m[1;36mHEAD -> [m[1;32mcheckpoint-6[m[33m)[m HEAD@{0}: commit: soln
+[33m5d49423[m[33m ([m[1;31morigin/checkpoint-6[m[33m)[m HEAD@{1}: checkout: moving from checkpoint-5 to checkpoint-6
+[33m4ca410c[m[33m ([m[1;31morigin/checkpoint-5[m[33m, [m[1;32mcheckpoint-5[m[33m)[m HEAD@{2}: commit: checkpoint-5
+[33m5d49423[m[33m ([m[1;31morigin/checkpoint-6[m[33m)[m HEAD@{3}: checkout: moving from checkpoint-6 to checkpoint-5
+[33m5d49423[m[33m ([m[1;31morigin/checkpoint-6[m[33m)[m HEAD@{4}: checkout: moving from checkpoint-5 to checkpoint-6
+[33m5d49423[m[33m ([m[1;31morigin/checkpoint-6[m[33m)[m HEAD@{5}: commit: checkpoint-5
+[33me6cc6a3[m HEAD@{6}: commit: checkpoint-5
+[33m71f81d6[m[33m ([m[1;31morigin/checkpoint-4[m[33m, [m[1;32mcheckpoint-4[m[33m)[m HEAD@{7}: checkout: moving from checkpoint-4 to checkpoint-5
+[33m71f81d6[m[33m ([m[1;31morigin/checkpoint-4[m[33m, [m[1;32mcheckpoint-4[m[33m)[m HEAD@{8}: commit: checkpoint-4
+[33m0e9af9d[m[33m ([m[1;31morigin/checkpoint-3[m[33m, [m[1;32mcheckpoint-3[m[33m)[m HEAD@{9}: checkout: moving from checkpoint-3 to checkpoint-4
+[33m0e9af9d[m[33m ([m[1;31morigin/checkpoint-3[m[33m, [m[1;32mcheckpoint-3[m[33m)[m HEAD@{10}: commit: checkpoint-3
+[33m3644b67[m[33m ([m[1;31morigin/checkpoint-2[m[33m, [m[1;32mcheckpoint-2[m[33m)[m HEAD@{11}: checkout: moving from checkpoint-2 to checkpoint-3
+[33m3644b67[m[33m ([m[1;31morigin/checkpoint-2[m[33m, [m[1;32mcheckpoint-2[m[33m)[m HEAD@{12}: commit: checkpoint-2
+[33mb327ab8[m[33m ([m[1;31morigin/checkpoint-1[m[33m, [m[1;32mcheckpoint-1[m[33m)[m HEAD@{13}: checkout: moving from checkpoint-1 to checkpoint-2
+[33mb327ab8[m[33m ([m[1;31morigin/checkpoint-1[m[33m, [m[1;32mcheckpoint-1[m[33m)[m HEAD@{14}: commit: checkpoint-1
+[33m3d1c700[m HEAD@{15}: checkout: moving from checkpoint-1 to checkpoint-1
+[33m3d1c700[m HEAD@{16}: commit (initial): checkpoint-1
